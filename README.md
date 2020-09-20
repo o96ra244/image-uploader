@@ -1,23 +1,15 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">image-uploader</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solution for a challenge from  <a href="https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx" target="_blank">Devchallenges.io</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://image-uploader-58619a.netlify.app/">
       Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx">
-      Challenge
     </a>
   </h3>
 </div>
@@ -37,22 +29,18 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![image-uploader_1](https://user-images.githubusercontent.com/15275398/93709090-812acd00-fb76-11ea-8149-cca3744ad992.jpg)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+![image-uploader_2](https://user-images.githubusercontent.com/15275398/93709088-7ff9a000-fb76-11ea-898d-985d7e6ded09.jpg)
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+![image-uploader_3](https://user-images.githubusercontent.com/15275398/93709091-812acd00-fb76-11ea-8518-d76def4ab2e6.jpg)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
 - [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [Netlify](https://www.netlify.com/)
 
 ## Features
 
@@ -68,25 +56,27 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/o96ra244/image-uploader
 
 # Install dependencies
-$ npm install
+$ yarn
 
 # Run the app
-$ npm start
+$ yarn serve
 ```
 
+<!--
 ## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example -->
+ This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example 
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Node.js](https://nodejs.org/)
 - [Marked - a markdown parser](https://github.com/chjj/marked)
+-->
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [Pastora](https://pastora.jp/)
+- GitHub [@o96ra244](https://github.com/o96ra244)
+- Twitter [@t_pastorale](https://twitter.com/t_pastorale)
